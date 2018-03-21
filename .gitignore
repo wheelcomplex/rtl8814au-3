@@ -1,3 +1,4 @@
+.cache.mk
 *.o
 *.cmd
 *.ko
